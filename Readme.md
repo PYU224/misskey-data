@@ -1,4 +1,4 @@
-<h1>Misskey「KindWorld」のルールとマナー</h1>
+<h1>Misskey「<a href="https://misskey.kindworld.one/">KindWorld</a>」のルールとマナー</h1>
 
 ・犯罪予告をしない<br>
 ・荒らし行為をする者は荒らしとして凍結します<br>
