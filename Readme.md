@@ -13,4 +13,5 @@ https://github.com/PrefKarafuto/New_0ch_Plus<br>
 <br>
 ・サーバの運営や勉強代の為に寄付を常時募集しています<br>
 寄付したい方は私にメッセージを送ってくださると幸いです<br>
-（TwitterでもメールでもMisskeyのDMでもたぶん大丈夫です）
+（TwitterでもメールでもMisskeyのDMでもたぶん大丈夫です<br>
+きれいなお金限定です）
