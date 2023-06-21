@@ -10,3 +10,6 @@ https://github.com/PYU224/misskey-data<br>
 参加・協力しているプロジェクト<br>
 ・ぜろちゃんねるプラスの再開発プロジェクト等<br>
 https://github.com/PrefKarafuto/New_0ch_Plus<br>
+<br>
+・サーバの運営や勉強代の為に寄付を常時募集しています<br>
+寄付したい方は私にメッセージを送ってくださると幸いです（TwitterでもメールでもMisskeyのDMでもたぶん大丈夫です）
