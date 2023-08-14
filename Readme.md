@@ -22,3 +22,5 @@ https://github.com/PrefKarafuto/New_0ch_Plus<br>
 参考と勉強にさせていただいているコミュニティや掲示板など<br>
 ・恒心綜合大学医学部付属病院掲示板<br>
 https://jbbs.shitaraba.net/study/12712/<br>
+・アングラツクスレ板<br>
+https://jbbs.shitaraba.net/game/59519/<br>
