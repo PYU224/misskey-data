@@ -24,3 +24,5 @@ https://github.com/PrefKarafuto/New_0ch_Plus<br>
 https://jbbs.shitaraba.net/study/12712/<br>
 ・アングラツクスレ板<br>
 https://jbbs.shitaraba.net/game/59519/<br>
+・ヴァーレントゥーガ避難所<br>
+https://jbbs.shitaraba.net/computer/42292/<br>
