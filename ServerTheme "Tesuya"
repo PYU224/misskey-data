@@ -1,0 +1,22 @@
+{
+	id: '8b7be307-f1ae-1867-12d2-c3ef07367af0',
+
+	name: 'Tesuya',
+	author: 'PYU224',
+
+	base: 'light',
+
+	props: {
+		accent: 'rgb(48, 160, 48)',
+		bg: 'rgb(204, 255, 204)',
+		fg: 'rgb(0, 0, 0)',
+		panel: 'rgb(255, 250, 250)',
+		renote: 'rgb(100, 152, 106)',
+		link: 'rgb(0, 0, 255)',
+		mention: '@hashtag',
+		hashtag: 'rgb(100, 152, 106)',
+		header: 'rgba(239, 227, 213, 0.75)',
+		navBg: 'rgb(220, 192, 166)',
+		inputBorder: 'rgba(0, 0, 0, 0.1)',
+	},
+}
