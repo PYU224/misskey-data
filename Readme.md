@@ -22,7 +22,10 @@ https://github.com/PYU224/misskey-data/blob/main/ServerTheme%20%22Tesuya%22<br>
 （TwitterでもメールでもMisskeyのDMでもたぶん大丈夫ですが、きれいなお金限定です）<br>
 PayPayやKyashでも受け付けています<br>
 <b>PayPayとKyashのID： pyu224</b><br>
+<br>
+・私のアカウント<br>
 https://misskey.kindworld.one/@PYU224<br>
+https://twitter.com/PYU224<br>
 <br>
 <h1>参加・協力しているプロジェクト</h1>
 ・ぜろちゃんねるプラスの再開発プロジェクト等<br>
