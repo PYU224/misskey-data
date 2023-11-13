@@ -13,15 +13,22 @@
 プラグインとかメモ書きとかは下記に追加予定です<br>
 https://github.com/PYU224/misskey-data<br>
 <br>
+サーバーのテーマ「Tesuya」（コピペで使えます）<br>
+https://github.com/PYU224/misskey-data/blob/main/ServerTheme%20%22Tesuya%22<br>
+<br>
+<h1>寄付について</h1>
 サーバの運営や勉強代の為に寄付を常時募集しています<br>
 寄付したい方は私にメッセージを送ってくださると幸いです<br>
 （TwitterでもメールでもMisskeyのDMでもたぶん大丈夫ですが、きれいなお金限定です）<br>
+PayPayやKyashでも受け付けています<br>
+<b>PayPayとKyashのID： pyu224</b><br>
+https://misskey.kindworld.one/@PYU224<br>
 <br>
-参加・協力しているプロジェクト<br>
+<h1>参加・協力しているプロジェクト</h1>
 ・ぜろちゃんねるプラスの再開発プロジェクト等<br>
 https://github.com/PrefKarafuto/New_0ch_Plus<br>
 <br>
-参考と勉強にさせていただいているコミュニティや掲示板など<br>
+<h1>参考と勉強にさせていただいているコミュニティや掲示板など</h1>
 ・恒心綜合大学医学部付属病院掲示板<br>
 https://jbbs.shitaraba.net/study/12712/<br>
 ・アングラツクスレ板<br>
