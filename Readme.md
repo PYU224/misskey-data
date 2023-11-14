@@ -27,9 +27,18 @@ PayPayやKyashでも受け付けています<br>
 https://misskey.kindworld.one/@PYU224<br>
 https://twitter.com/PYU224<br>
 <br>
+<h1>サーバーの維持費について</h1>
+2023年11月14日時点でのおおよその数値です。色々な方々の参考になると幸いです。<br>
+<br>
+・Misskey本体とデータベース担当のVPS代： <b>約20ドル/月</b><br>
+・メディア保管担当のオブジェクトストレージ代： <b>約12ドル/月</b><br>
+・匿名ドメイン会社からのドメイン代： <b>約30ユーロ/年</b><br>
+<br>
 <h1>参加・協力しているプロジェクト</h1>
-・ぜろちゃんねるプラスの再開発プロジェクト等<br>
+・ぜろちゃんねるプラスの再開発プロジェクト等<b>（EXぜろちゃんねる（ex0ch））</b><br>
 https://github.com/PrefKarafuto/New_0ch_Plus<br>
+・Tor Project<br>
+https://www.torproject.org<br>
 <br>
 <h1>参考と勉強にさせていただいているコミュニティや掲示板など</h1>
 ・恒心綜合大学医学部付属病院掲示板<br>
