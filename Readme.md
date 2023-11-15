@@ -23,17 +23,19 @@ https://github.com/PYU224/misskey-data/blob/main/ServerTheme%20%22Tesuya%22<br>
 PayPayやKyashでも受け付けています<br>
 <b>PayPayとKyashのID： pyu224</b><br>
 <br>
-・私のアカウント<br>
+<p>・私のアカウント<br>
 https://misskey.kindworld.one/@PYU224<br>
-https://twitter.com/PYU224<br>
-<br>
+https://twitter.com/PYU224</p>
+<p>・私のサイトやブログ<br>
+https://33-4.me/<br>
+https://33-4.me/blog/</p>
 <h1>サーバーの維持費について</h1>
-2023年11月14日時点でのおおよその数値です。色々な方々の参考になると幸いです。<br>
-<br>
+<p>2023年11月14日時点でのおおよその数値です。色々な方々の参考になると幸いです。</p>
+<p>
 ・Misskey本体とデータベース担当のVPS代： <b>約20ドル/月</b><br>
 ・メディア保管担当のオブジェクトストレージ代： <b>約12ドル/月</b><br>
-・匿名ドメイン会社からのドメイン代： <b>約30ユーロ/年</b><br>
-<br>
+・匿名ドメイン会社からのドメイン代： <b>約30ユーロ/年</b>
+</p>
 <h1>参加・協力しているプロジェクト</h1>
 ・ぜろちゃんねるプラスの再開発プロジェクト等<b>（EXぜろちゃんねる（ex0ch））</b><br>
 https://github.com/PrefKarafuto/New_0ch_Plus<br>
