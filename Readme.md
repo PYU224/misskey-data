@@ -22,6 +22,9 @@ https://github.com/PYU224/misskey-data/blob/main/ServerTheme%20%22Tesuya%22<br>
 Misskeyのチャンネルについての解説<br>
 https://whiteblackspace.hatenablog.com/entry/2023/02/28/232319<br>
 <br>
+Misskeyの基本的な使い方（チャンネルなどの使い方も含む）<br>
+[https://whiteblackspace.hatenablog.com/entry/2023/02/28/232319](https://note.com/spoonail/n/n79b820b7cd95)<br>
+<br>
 <h2>「政治思想を過度に出している」とは何か</h2>
 定義するのは難しい上に情勢によって変化するでしょうが、一応以下と定義します。<br>
 ・特定の人物・集団に対して<b>大きな負の感情をぶつける</b>表現<br>
