@@ -57,6 +57,7 @@ https://www.torproject.org/download/tor/<br>
 <h1>寄付について</h1>
 サーバの運営や勉強代の為に寄付を常時募集しています<br>
 寄付したい方は私にメッセージを送ってくださると幸いです<br>
+VプリカやAmazonギフト券を中心に寄付を受け付けております。<br>
 （TwitterでもメールでもMisskeyのDMでもたぶん大丈夫ですが、きれいなお金限定です）<br>
 PayPayやKyashでも受け付けています<br>
 <b>PayPayとKyashのID： pyu224</b><br>
