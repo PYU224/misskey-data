@@ -54,6 +54,19 @@ https://www.torproject.org/download/tor/<br>
 <br>
 解凍したフォルダより「Tor.exe」を起動してTorネットワークに接続したまま、Torブラウザ以外からのブラウザでプロキシの設定画面に入り、Socks5のプロキシを「<b>127.0.0.1:9050</b>」に設定しましょう。（FireFoxは設定からいけますし、Chromeはプラグイン等を使えば簡単に設定できます）<br>
 <br>
+<h1>Twitterから初めて来た方々へ</h1>
+とりあえずツイートは「ノート」から行え、他人のノートにリアクションを付ける事もできます。<br>
+「ホーム」ではフォローしている方のTLが見れ、「ローカル」では同じサーバーにいる方々の投稿を見る事ができ、「ソーシャル」や「グローバル」ではフォローしていない他人のノートを見る事ができます。ややこしいですが・・・<br>
+あとマークダウン記法が使えますので良かったら活用してみてください。<br>
+<br>
+参考URL<br>
+https://misskey-hub.net/docs/features/timeline.html<br>
+https://qiita.com/tbpgr/items/989c6badefff69377da7<br>
+<br>
+<h2>パスワード再発行機能があります</h2>
+アカウントにメールアドレスを登録すると、万一アカウントのパスワードを忘れた際にパスワードの再発行ができる機能があります。<br>
+メールアドレスを登録していないよ！という方は管理者の私にDMをください。パスワードをリセットして再発行します。<br>
+<br>
 <h1>寄付について</h1>
 サーバの運営や勉強代の為に寄付を常時募集しています<br>
 寄付したい方は私にメッセージを送ってくださると幸いです<br>
@@ -77,7 +90,7 @@ https://33-4.me/blog/</p>
 </p>
 <h1>参加・協力しているプロジェクト</h1>
 ・ぜろちゃんねるプラスの再開発プロジェクト等<b>（EXぜろちゃんねる（ex0ch））</b><br>
-https://github.com/PrefKarafuto/New_0ch_Plus<br>
+https://github.com/PrefKarafuto/ex0ch<br>
 ・Tor Project<br>
 https://www.torproject.org<br>
 <br>
