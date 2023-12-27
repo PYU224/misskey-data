@@ -81,10 +81,14 @@ VプリカやAmazonギフト券を中心に寄付を受け付けております�
 PayPayやKyashでも受け付けています<br>
 <b>PayPayとKyashのID： pyu224</b><br>
 <br>
-<p>・私のアカウント<br>
+<h2>仮想通貨での寄付はこちら</h2>
+<b>Litecoin： ltc1q48xp7ftvvzqyjdljmfq8kq63k98ck8q98rz558</b><br>
+<b>BAT: 0x53686a67285eeD7D6e33C24838B446AD2F0654e6</b>
+<br>
+<h2>私のアカウント</h2>
 https://misskey.kindworld.one/@PYU224<br>
 https://twitter.com/PYU224</p>
-<p>・私のサイトやブログ<br>
+<h2>私のサイトやブログ</h2>
 https://33-4.me/<br>
 https://33-4.me/blog/</p>
 <h1>サーバーの維持費について</h1>
