@@ -1,4 +1,4 @@
-<h1>Misskey「<a href="https://misskey.kindworld.one/">KindWorld</a>」と「<a href="https://misskey.nukumori-sky.net/">ぬくもりすきー</a>」のルールとマナー</h1>
+<h1>Misskey「<a href="https://misskey.nukumori-sky.net/">ぬくもりすきー</a>」のルールとマナー</h1>
 
 ・ここではアングラネタを受け入れていますが犯罪予告はしてはいけません<br>
 ・荒らし行為をする者は荒らしとして凍結します<br>
@@ -84,17 +84,20 @@ PayPayやKyashでも受け付けています<br>
 <h2>仮想通貨での寄付はこちら</h2>
 <b>Litecoin： ltc1q48xp7ftvvzqyjdljmfq8kq63k98ck8q98rz558</b><br>
 <b>BAT: 0x53686a67285eeD7D6e33C24838B446AD2F0654e6</b>
+<h2>「仕事を依頼する」という形で私を支援したい場合はこちら<br>（もちろん仕事は可能な限り真面目にやります）</h2>
+https://onaco.jp/profile/PYU224<br>
+https://skeb.jp/@PYU224
 <br>
 <h2>私のアカウント</h2>
 https://misskey.nukumori-sky.net/@PYU224<br>
-https://twitter.com/PYU224</p>
+https://twitter.com/PYU224
 <h2>私のサイトやブログ</h2>
 https://33-4.me/<br>
-https://33-4.me/blog/</p>
+https://33-4.me/blog/
 <h1>サーバーの維持費について</h1>
 <p>2023年11月14日時点でのおおよその数値です。色々な方々の参考になると幸いです。</p>
 <p>
-Kindworldの場合<br>
+Kindworld（閉鎖済み）の場合<br>
 ・Misskey本体とデータベース担当のVPS代： <b>約20ドル/月</b><br>
 ・メディア保管担当のオブジェクトストレージ代： <b>約12ドル/月</b><br>
 ・匿名ドメイン会社からのドメイン代： <b>約30ユーロ/年</b>
@@ -110,6 +113,11 @@ Kindworldの場合<br>
 https://github.com/PrefKarafuto/ex0ch<br>
 ・Tor Project<br>
 https://www.torproject.org<br>
+<br>
+<h1>サポート</h1>
+Revolt.ChatというDiscord風チャットツールで受け付けています。<br>
+サポートコミュニティ→ https://rvlt.gg/MY9Epben<br>
+私のRevoltアカウント→ <b>PYU224#4296</b><br>
 <br>
 <h1>参考と勉強にさせていただいているコミュニティや掲示板など</h1>
 ・恒心綜合大学医学部付属病院掲示板<br>
