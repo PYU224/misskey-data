@@ -151,3 +151,8 @@ https://jbbs.shitaraba.net/game/59519/<br>
 
 - ヴァーレントゥーガ避難所<br>
 https://jbbs.shitaraba.net/computer/42292/<br>
+<br>
+
+## 出入り禁止ユーザー
+当サーバーの規約が守れない等の理由で、こちらではどうしても受け入れられなかったユーザーリストです。<br>
+[受け入れないユーザーリスト（banned-user.md）](./banned-user.md)
