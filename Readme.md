@@ -21,7 +21,7 @@
 https://github.com/PYU224/misskey-data<br>
 
 - サーバーのテーマ「Tesuya」（コピペで使えます）<br>
-https://github.com/PYU224/misskey-data/blob/main/ServerTheme%20%22Tesuya%22<br>
+[Tesuyaのテーマスクリプト](./ServerTheme"Tesuya".dat)<br>
 
 - Misskeyのチャンネルについての解説<br>
 https://whiteblackspace.hatenablog.com/entry/2023/02/28/232319<br>
