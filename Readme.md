@@ -92,6 +92,9 @@ VプリカやAmazonギフト券を中心に寄付を受け付けております�
 PayPayやKyashでも受け付けています<br>
 <b>PayPayとKyashのID： pyu224</b><br>
 <br>
+Pixiv Fanboxの有料プラン契約でも支援ができます。<br>
+https://pyu224.fanbox.cc/<br>
+<br>
 
 ### 仮想通貨での寄付はこちら
 <b>Litecoin： ltc1q48xp7ftvvzqyjdljmfq8kq63k98ck8q98rz558</b><br>
