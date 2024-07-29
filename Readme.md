@@ -95,6 +95,9 @@ PayPayやKyashでも受け付けています<br>
 Pixiv Fanboxの有料プラン契約でも支援ができます。<br>
 https://pyu224.fanbox.cc/<br>
 <br>
+<b>寄付などでこのサーバーに貢献していただいた方でそれを名乗り出ていただくとその方に専用のロール（役割）を付与したいと思います。<br>
+ドライブの容量が多いといった特典がありますのでご検討してくださると嬉しいです。</b><br>
+<br>
 
 ### 仮想通貨での寄付はこちら
 <b>Litecoin： ltc1q48xp7ftvvzqyjdljmfq8kq63k98ck8q98rz558</b><br>
