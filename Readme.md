@@ -92,8 +92,9 @@ VプリカやAmazonギフト券を中心に寄付を受け付けております�
 PayPayやKyashでも受け付けています<br>
 <b>PayPayとKyashのID： pyu224</b><br>
 <br>
-Pixiv Fanboxの有料プラン契約でも支援ができます。<br>
+Pixiv Fanboxの有料プラン契約や、メロンブックスから同人誌やグッズを購入する形でも支援ができます。<br>
 https://pyu224.fanbox.cc/<br>
+https://www.melonbooks.co.jp/circle/index.php?circle_id=41217<br>
 <br>
 <b>寄付などでこのサーバーに貢献していただいた方でそれを名乗り出ていただくとその方に専用のロール（役割）を付与したいと思います。<br>
 ドライブの容量が多いといった特典がありますのでご検討してくださると嬉しいです。</b><br>
@@ -103,6 +104,7 @@ https://pyu224.fanbox.cc/<br>
 <b>Litecoin： ltc1q48xp7ftvvzqyjdljmfq8kq63k98ck8q98rz558</b><br>
 <b>BAT: 0x53686a67285eeD7D6e33C24838B446AD2F0654e6</b><br>
 <b>Monero: 839MD2wtRGDW5kaCwTpBMpaDZUji2nvzTX6w4H8P23sLG2H9uqCGSEsiQ6whWFkHhLFAWWXAukapGfM5nq3KornhE3RRYsn</b><br>
+<b>Zcash: t1drHvETYxYzLgsFo5Wf2XAX5eUSkemXftT</b><br>
 <br>
 
 ### 「仕事を依頼する」という形で私を支援したい場合はこちら<br>（もちろん仕事は可能な限り真面目にやります）
