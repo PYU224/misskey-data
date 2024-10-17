@@ -29,6 +29,8 @@ https://whiteblackspace.hatenablog.com/entry/2023/02/28/232319<br>
 - Misskeyの基本的な使い方（チャンネルなどの使い方も含む）<br>
 https://note.com/spoonail/n/n79b820b7cd95<br>
 <br>
+色々と制限を付けましたが創作や技術についての話題、特にプログラミング・サーバといった話題については大歓迎です。<br>
+<br>
 
 ## 「政治思想を過度に出している」とは何か
 定義するのは難しい上に情勢によって変化するでしょうが、一応以下と定義します。<br>
@@ -112,17 +114,22 @@ https://onaco.jp/profile/PYU224<br>
 https://skeb.jp/@PYU224<br>
 <br>
 
-### 私のアカウント
+### 私のアカウント（質問やサポート等はこちらでお願いします）
 https://misskey.nukumori-sky.net/@PYU224<br>
 https://twitter.com/PYU224<br>
 <br>
 
-### 私のサイトやブログ
+### 私のサイトやブログ、自作ゲームの紹介ページ（こちらでも質問やサポート等のコメントがあればできるだけ対応します）
 https://33-4.me/<br>
 https://33-4.me/blog/<br>
+https://w.atwiki.jp/vahren_ency/pages/1006.html<br>
 <br>
 
-## サーバーの維持費について
+## このサーバーをホストしているサーバマシンについて
+このサーバーほホストしているVPS（仮想サーバ）はモルドバ共和国🇲🇩にある、某ホスティング会社のものを利用しています。<br>
+理由は比較的安価で規約が緩くて性能の良いサーバをレンタルでき、VPSのレンタルを通じて真面目で勤勉な彼らの支援がしたいからです。
+
+### 維持費について
 <p>2023年11月14日時点でのおおよその数値です。色々な方々の参考になると幸いです。</p>
 <p>
 Kindworld（閉鎖済み）の場合<br>
@@ -143,12 +150,6 @@ Kindworld（閉鎖済み）の場合<br>
 https://github.com/PrefKarafuto/ex0ch<br>
 - Tor Project<br>
 https://www.torproject.org<br>
-<br>
-
-## サポート
-Revolt.ChatというDiscord風チャットツールで受け付けています。<br>
-サポートコミュニティ→ https://rvlt.gg/MY9Epben<br>
-私のRevoltアカウント→ <b>PYU224#4296</b><br>
 <br>
 
 ## 参考と勉強にさせていただいているコミュニティや掲示板など
