@@ -110,7 +110,7 @@ https://www.melonbooks.co.jp/circle/index.php?circle_id=41217<br>
 <br>
 
 ### 「仕事を依頼する」という形で私を支援したい場合はこちら<br>（もちろん仕事は可能な限り真面目にやります）
-https://onaco.jp/profile/PYU224<br>
+https://www.pixiv.net/request/plans/138104<br>
 https://skeb.jp/@PYU224<br>
 <br>
 
