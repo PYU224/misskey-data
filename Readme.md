@@ -28,6 +28,10 @@ https://whiteblackspace.hatenablog.com/entry/2023/02/28/232319<br>
 
 - Misskeyの基本的な使い方（チャンネルなどの使い方も含む）<br>
 https://note.com/spoonail/n/n79b820b7cd95<br>
+
+- Misskeyの文字の装飾についての解説<br>
+https://misskey-hub.net/ja/docs/for-users/features/mfm/<br>
+
 <br>
 色々と制限を付けましたが創作や技術についての話題、特にプログラミング・サーバといった話題については大歓迎です。<br>
 <br>
