@@ -94,9 +94,9 @@ https://misskey.io/notes/9k8p1owleu<br>
 サーバの運営や勉強代の為に寄付を常時募集しています<br>
 寄付したい方は私にメッセージを送ってくださると幸いです<br>
 VプリカやAmazonギフト券を中心に寄付を受け付けております。<br>
-（TwitterでもメールでもMisskeyのDMでもたぶん大丈夫ですが、きれいなお金限定です）<br>
+（TwitterでもメールでもMisskeyのDMでもKeybaseのチャットでもたぶん大丈夫ですが、きれいなお金限定です）<br>
 PayPayやKyashでも受け付けています<br>
-<b>PayPayとKyashのID： pyu224</b><br>
+<b>PayPayとKyashとKeybaseのID： pyu224</b><br>
 <br>
 Pixiv Fanboxの有料プラン契約や、メロンブックスから同人誌やグッズを購入する形でも支援ができます。<br>
 https://pyu224.fanbox.cc/<br>
