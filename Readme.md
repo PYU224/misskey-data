@@ -113,6 +113,9 @@ https://www.melonbooks.co.jp/circle/index.php?circle_id=41217<br>
 <b>Zcash: t1drHvETYxYzLgsFo5Wf2XAX5eUSkemXftT</b><br>
 <br>
 
+### Ko-fiでの寄付はこちら
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R71CMGU1)
+
 ### 「仕事を依頼する」という形で私を支援したい場合はこちら<br>（もちろん仕事は可能な限り真面目にやります）
 https://www.pixiv.net/request/plans/138104<br>
 https://skeb.jp/@PYU224<br>
