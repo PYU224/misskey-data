@@ -95,8 +95,8 @@ https://misskey.io/notes/9k8p1owleu<br>
 寄付したい方は私にメッセージを送ってくださると幸いです<br>
 VプリカやAmazonギフト券を中心に寄付を受け付けております。<br>
 （TwitterでもメールでもMisskeyのDMでもKeybaseのチャットでもたぶん大丈夫ですが、きれいなお金限定です）<br>
-PayPayやKyashでも受け付けています<br>
-<b>PayPayとKyashとKeybaseのID： pyu224</b><br>
+PayPayでも受け付けています<br>
+<b>PayPayとKeybaseのID： pyu224</b><br>
 <br>
 Pixiv Fanboxの有料プラン契約や、メロンブックスから同人誌やグッズを購入する形でも支援ができます。<br>
 https://pyu224.fanbox.cc/<br>
