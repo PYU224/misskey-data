@@ -108,9 +108,8 @@ https://www.melonbooks.co.jp/circle/index.php?circle_id=41217<br>
 
 ### 仮想通貨での寄付はこちら
 <b>Litecoin： ltc1q48xp7ftvvzqyjdljmfq8kq63k98ck8q98rz558</b><br>
-<b>BAT: 0x53686a67285eeD7D6e33C24838B446AD2F0654e6</b><br>
+<b>Bitcoin: bc1qgnvv7wyqjzchdlmlrlfmg4yymxjq2g0mnkcen6</b><br>
 <b>Monero: 839MD2wtRGDW5kaCwTpBMpaDZUji2nvzTX6w4H8P23sLG2H9uqCGSEsiQ6whWFkHhLFAWWXAukapGfM5nq3KornhE3RRYsn</b><br>
-<b>Zcash: t1drHvETYxYzLgsFo5Wf2XAX5eUSkemXftT</b><br>
 <br>
 
 ### Ko-fiでの寄付はこちら
